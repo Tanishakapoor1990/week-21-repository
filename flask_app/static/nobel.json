@@ -10587,6 +10587,19 @@
                 }
             ],
             "year": "2006"
+        },
+        {
+            "category": "sports",
+            "laurates": [
+                {
+                    "firstname": "Shanaya",
+                    "id": "988",
+                    "motivation": "test",
+                    "share": "10",
+                    "surname": "kwqtra"
+                }
+            ],
+            "year": "2020"
         }
     ]
 }
